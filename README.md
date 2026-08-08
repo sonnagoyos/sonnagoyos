@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![tryhackme stats](https://raw.githubusercontent.com/<therealestpokemon>/<therealestpokemon>/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/<therealestpokemon>/<therealestpokemon>/main/assets/thm_propic.png)
